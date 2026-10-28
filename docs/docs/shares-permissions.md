@@ -1,1 +1,0 @@
-# Partages et permissions
