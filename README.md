@@ -41,5 +41,4 @@ Screenshots documenting the lab configuration and tests are available in the [`s
 ## Future Improvements
 
 - Join the Ubuntu client to the Active Directory domain
-- Restrict firewall rules to only the required ports and services
 
