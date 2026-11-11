@@ -6,12 +6,6 @@ This lab was created for learning and practice purposes. It demonstrates several
 
 ## Current Limitations
 
-### Firewall Rules
-
-During connectivity troubleshooting, a rule allowing traffic to the Active Directory server with a broad destination port setting was used.
-
-Although this helped verify connectivity, allowing all ports is broader than necessary. The rule should be reviewed and replaced with rules limited to the services and ports required by the lab.
-
 ### Ubuntu Domain Integration
 
 The Ubuntu client is connected to the LAN, but it has not yet been joined to the Active Directory domain.
@@ -26,7 +20,6 @@ The environment runs in VirtualBox on a personal computer. It is designed for le
 
 Planned improvements include:
 
-- Restricting firewall rules to required ports and services.
 - Joining the Ubuntu client to Active Directory.
 - Performing additional connectivity and access-control tests.
 - Reviewing security settings and documenting any changes.
